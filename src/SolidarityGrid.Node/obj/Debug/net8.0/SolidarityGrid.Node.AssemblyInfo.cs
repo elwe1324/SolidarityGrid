@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolidarityGrid.Node")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4c378efbbfa4dfe436cd77aaebc883b99a0fe5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e667bea7a7b9c1328538e7a685d1a20e5662aff")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolidarityGrid.Node")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolidarityGrid.Node")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
