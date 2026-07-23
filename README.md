@@ -138,3 +138,8 @@ De forma manual puedes usar el Git-Bash del terminal con el comando:
 4. Monitoreo y Autocuración: Un nodo superviviente (Nodo-B o Nodo-C) detecta la pérdida de comunicación, asume la transacción y la completa.
 
 5. Verificación: Muestra los logs del evento y confirma que la transacción quedó en estado Completed.
+
+
+**Trabajo colaborativo. ¿qué tal si trabajas equipo para resolver el problema? Cómo lo harías trabajando con otros compañeros igual que la red mesh, no dejando caer al otro sino potencializando su trabajo y estando allí si algo sale mal?**
+
+Trabajaría con visibilidad constante y respaldo mutuo. No esperar a que un compañero colapse para intervenir, monitorear el avance juntos, identificamos bloqueos a tiempo y, si alguien no puede continuar, otro toma el relevo de inmediato sin buscar culpables. En lugar de trabajar en silos o competir, distribuimos las cargas según las fortalezas de cada uno y mantenemos una comunicación transparente para asegurarnos de que el equipo avance en sintonía hacia la misma meta.
